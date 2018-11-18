@@ -11,6 +11,6 @@
 6. Motor Vehicle Emissions for Baltimore City vs. Los Angeles County (base plot, multi-panel)
 ---
 ### Usage
-plotX(onscreen=FALSE) loads .rds data files from current working directory and plot X
+plotX(onscreen=FALSE) loads .rds data files from current working directory and generates plot X
 - onscreen=TRUE presents plot to screen
 - onscreen=FALSE writes plot to file plotX.png to current working directory
